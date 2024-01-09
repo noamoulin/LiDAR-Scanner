@@ -13,7 +13,7 @@ Reconstruction 3D d'une partie d'un ancien abris anti-aérien sous Paris à part
 ![Image4](images/PTT_in.jpeg)
 Vue de l'intérieur du modèle.
 
-![Image5](images/PTT_voxels.jpeg)
+![Image5](images/PTTvoxels.jpeg)
 Sous echantillonage du nuage de points par une grille de voxels.
 
 ![Image6](images/coupe.jpg)
